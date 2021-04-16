@@ -1,5 +1,5 @@
 # Photogram Industrial
-
+Change on main
 In this project, we'll rebuild Photogram once more, but we'll do it without cutting any corners — we'll use database indexes and constraints, advanced association accessors, scopes, validations, view helper methods like `link_to` and `form_with` everywhere, partials to DRY up code judiciously, the Devise gem for authentication and password reset emails, authorizing access to each action explicitly, and many other industrial-strength upgrades.
 
 ## Add collaborators
